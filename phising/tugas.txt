@@ -1,0 +1,44 @@
+1. sebutkan kelebihan dari presentasi teks.
+2. apa yang menentukan tingkt keberhasilan presentasi teks? jelaskan!
+3. hal apa saja yang harus diperhatikan agar presentasi berjalan baik?
+4. mengapa sebelum presentasi harus mengenal situasi dan audiens / pendengar? jelaskan!
+5. sebutkan dan jelaskan tahapan dalam melakukan presentasi yang baik!
+
+1. Kelebihan Presentasi Teks:
+   - Kemampuan untuk menyampaikan informasi dengan detail yang tinggi.
+   - Kemudahan penyuntingan dan pembaruan konten.
+   - Portabilitas yang memungkinkan distribusi melalui berbagai media.
+   - Aksesibilitas bagi berbagai kebutuhan, seperti penggunaan pembaca layar.
+   - Konsistensi dalam struktur dan gaya.
+   - Hemat biaya produksi dan distribusi.
+   - Daya tahan terhadap perubahan format atau teknologi.
+
+2. Faktor yang Mempengaruhi Keberhasilan Presentasi Teks:
+   Tingkat keberhasilan presentasi teks ditentukan oleh beberapa faktor, termasuk:
+   - Keketepatan isi: Memastikan informasi yang disajikan relevan dan sesuai dengan tujuan presentasi.
+   - Kekonsistenan: Menjaga konsistensi dalam struktur, gaya, dan format presentasi.
+   - Klaritas dan Keterbacaan: Memastikan teks mudah dipahami oleh audiens target.
+   - Kesesuaian dengan Audiens: Menyesuaikan konten dengan kebutuhan, minat, dan tingkat pemahaman audiens.
+   - Efektivitas Penyampaian: Kemampuan penyaji untuk menyampaikan informasi dengan percaya diri dan menarik perhatian.
+
+3. Hal yang Harus Diperhatikan agar Presentasi Berjalan Baik:
+   - Persiapan yang Matang: Mempersiapkan konten dengan cermat dan merencanakan struktur presentasi.
+   - Penggunaan Bahasa yang Tepat: Memilih kata-kata yang sesuai dengan audiens dan tujuan presentasi.
+   - Penggunaan Visual Pendukung: Memasukkan grafik, tabel, atau diagram untuk memperjelas dan memperkuat pesan.
+   - Praktik Penyampaian: Berlatih presentasi secara menyeluruh untuk meningkatkan kemampuan penyampaian dan kepercayaan diri.
+   - Evaluasi dan Umpan Balik: Meminta umpan balik dari rekan kerja atau audiens sebelum dan setelah presentasi untuk meningkatkan kualitas presentasi.
+
+4. Pentingnya Mengenal Situasi dan Audiens Sebelum Presentasi:
+   - Mengenal situasi dan audiens penting karena memungkinkan penyaji untuk:
+     - Menyesuaikan konten presentasi dengan kebutuhan dan minat audiens.
+     - Memilih gaya dan bahasa yang tepat sesuai dengan latar belakang dan karakteristik audiens.
+     - Mengantisipasi pertanyaan atau kekhawatiran yang mungkin muncul dari audiens.
+     - Memastikan pesan yang disampaikan relevan dengan konteks situasi dan tujuan presentasi.
+
+5. Tahapan dalam Melakukan Presentasi yang Baik:
+   - Persiapan: Menentukan tujuan presentasi, merencanakan struktur dan konten, serta mengumpulkan materi yang diperlukan.
+   - Pembukaan: Memperkenalkan diri, menyajikan tujuan presentasi, dan menarik perhatian audiens.
+   - Pengembangan: Menyampaikan isi presentasi secara sistematis dan jelas dengan menggunakan bahasa yang mudah dipahami dan visual yang mendukung.
+   - Interaksi: Membuka kesempatan untuk pertanyaan atau diskusi, serta berinteraksi dengan audiens untuk mempertahankan keterlibatan.
+   - Penutup: Merangkum poin utama, menyimpulkan pesan dengan jelas, dan menutup presentasi dengan kuat.
+   - Evaluasi: Mengevaluasi kinerja presentasi dan memperbaiki kelemahan untuk presentasi selanjutnya.
